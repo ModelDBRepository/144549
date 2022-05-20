@@ -41,6 +41,7 @@ ASSIGNED { seed }
 
 VERBATIM
 #include "misc.h"
+#include <stdint.h> /* uint32_t, uintptr_t */
 #define MIN_MERGESORT_LIST_SIZE    32
 
 union dblint {

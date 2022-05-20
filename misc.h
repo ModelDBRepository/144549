@@ -111,6 +111,8 @@ void ListVecResize(ListVec* p,int newsz);
 extern short *nrn_artcell_qindex_;
 extern double nrn_event_queue_stats(double*);
 extern void clear_event_queue();
+extern int hoc_is_tempobj(int narg);
+extern int hoc_is_tempobj_arg(int narg);
 #endif
 ListVec* AllocListVec(Object* p);
 ListVec* AllocILV(Object*, int, double *);
