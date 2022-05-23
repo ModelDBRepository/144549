@@ -1,5 +1,5 @@
 // $Id: misc.h,v 1.33 2010/06/05 15:32:28 billl Exp $
-
+#include <stdint.h> /* uint32_t */
 #include <stdlib.h>
 #include <math.h>
 #include <limits.h> /* contains LONG_MAX */
