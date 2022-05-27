@@ -23,3 +23,8 @@ For questions/comments contact Sam Neymotin:
   or
  samn at neurosim dot downstate dot edu
 
+Changelog
+---------
+2022-05: Updated MOD files to contain valid C++ and be compatible with the
+         upcoming versions 8.2 and 9.0 of NEURON. Updated to use post ~2011
+         signature of mcell_ran4_init function.
