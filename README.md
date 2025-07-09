@@ -13,15 +13,11 @@ The third step will run the simulation for 500 ms of simulation time and display
 This demo was originally written by Bill Lytton and then later translated to python by Sam Neymotin.
 
 For questions/comments contact Sam Neymotin:  
-samuel dot neymotin at yale dot edu  
-or  
-samn at neurosim dot downstate dot edu
+samuel.neymotin@yale.edu or samn@neurosim.downstate.edu
 
 Changelog
 ---------
 
 2022-05: Updated MOD files to contain valid C++ and be compatible with the upcoming versions 8.2 and 9.0 of NEURON. Updated to use post ~2011 signature of mcell_ran4_init function.
-
----
 
 2025-07-09: Converted README to Markdown.
